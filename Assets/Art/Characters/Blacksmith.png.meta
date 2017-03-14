@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: fd88b351e2d84df48bd281f4db941df9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blacksmith_arm_left
+    21300002: Blacksmith_arm_right
+    21300004: Blacksmith_main
+    21300006: Blacksmith_leg_left
+    21300008: Blacksmith_leg_right
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blacksmith_arm_left
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 234
+        width: 97
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blacksmith_arm_right
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 250
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blacksmith_main
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 150
+        width: 143
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blacksmith_leg_left
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1
+        width: 83
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blacksmith_leg_right
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 43
+        width: 85
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

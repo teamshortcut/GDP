@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 0ee5652d3844cdd4fbe704324b601ae1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bandit_Head
+    21300002: Bandit_Body
+    21300004: Bandit_arm_left
+    21300006: Bandit_arm_right
+    21300008: Bandit_Mace
+    21300010: Bandit_Sack
+    21300012: Bandit_leg_left
+    21300014: Bandit_leg_right
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Bandit_Head
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 434
+        width: 397
+        height: 396
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_Body
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 534
+        width: 286
+        height: 222
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_arm_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 115
+        height: 113
+      alignment: 9
+      pivot: {x: .80829376, y: .780723631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_arm_right
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 248
+        width: 120
+        height: 108
+      alignment: 9
+      pivot: {x: .157902271, y: .793720126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_Mace
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 61
+        width: 213
+        height: 362
+      alignment: 9
+      pivot: {x: .504999995, y: .959999979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_Sack
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 172
+        width: 257
+        height: 357
+      alignment: 9
+      pivot: {x: .100663833, y: .95473671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_leg_left
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 74
+        height: 130
+      alignment: 9
+      pivot: {x: .5, y: .875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bandit_leg_right
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 26
+        width: 74
+        height: 131
+      alignment: 9
+      pivot: {x: .5, y: .875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
